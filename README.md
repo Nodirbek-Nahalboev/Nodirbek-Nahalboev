@@ -2,7 +2,8 @@
 - 👀 I’m interested in Computer Sience and Information Technology
 - 🌱 I’m currently learning Web designing
 - 💞️ I’m looking to collaborate on agvrage web designer
-- 📫 How to reach me nahalboeyevnodirbek@gmail.com
+- 📫 How to reach me 
+-     nahalboeyevnodirbek@gmail.com
       https://t/me.@nakhalboev_2727
 
 <!---
